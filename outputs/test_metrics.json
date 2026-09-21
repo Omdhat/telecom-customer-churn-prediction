@@ -1,0 +1,12 @@
+{
+  "best_model": "Random Forest",
+  "threshold": 0.45,
+  "train_rows": 4000,
+  "test_rows": 1000,
+  "churn_rate": 0.1414,
+  "Accuracy": 0.975,
+  "Precision": 0.9603,
+  "Recall": 0.8582,
+  "F1": 0.9064,
+  "ROC-AUC": 0.9166
+}

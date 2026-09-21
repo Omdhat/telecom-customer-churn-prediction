@@ -1,0 +1,5 @@
+Model,Features,CV F1
+Logistic Regression,Without feature engineering,0.2961
+Logistic Regression,With feature engineering,0.2426
+Random Forest,Without feature engineering,0.8433
+Random Forest,With feature engineering,0.9144
